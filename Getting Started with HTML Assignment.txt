@@ -1,0 +1,14 @@
+﻿Getting Started With HTML Assignment
+
+
+
+
+Question 5:- What is the DOCTYPE Declaration in HTML?
+
+Answer:- DOCTYPE Declaration in HTML is not a tag or any other syntax. It is basically used for “INFORMATION” to which browser is using. We are using Chrome Browser so how does the code find which browser is used for this HTML code? This is written in <!DOCTYPE> format.
+
+
+Question 4:- Write a short note on Tag and element with an example?
+
+Answer:- HTML Tag and Element are so similar, that they are combined. Like we make a HTML Code and use this line <Head> </Head> So, this is Tag. There are so many tags. (<Body> </Body>, <h1> </h1>). Now, I will tell you about HTML Elements. This is the object of the tag.
+Example:- <h1>Hello World</h1> This is the HTML Tag and Element.
